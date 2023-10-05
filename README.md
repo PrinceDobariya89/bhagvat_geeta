@@ -1,8 +1,7 @@
 # bhagvat_geeta
 
 # screenshot
-
-  ![bhagvat geeta](https://github.com/PrinceDobariya89/bhagvat_geeta/assets/104968601/94be1b93-9551-4d10-a6ce-9c019adbf787|width=50)
+<img src="https://github.com/PrinceDobariya89/bhagvat_geeta/assets/104968601/94be1b93-9551-4d10-a6ce-9c019adbf787" data-canonical-src="https://github.com/PrinceDobariya89/bhagvat_geeta/assets/104968601/94be1b93-9551-4d10-a6ce-9c019adbf787" width="300" height="450" />
 
 
 A new Flutter project.
